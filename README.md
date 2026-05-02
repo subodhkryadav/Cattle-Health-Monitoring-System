@@ -58,7 +58,8 @@ GauRaksha/
 ├── videos/                     # Place your cow_video.mp4 here
 ├── cow-health-vital-signs-datasets-main/   # Optional dataset folder
 ├── requirements.txt
-└── README.md
+└── README.md 
+|-also add the flask and arduino 
 
 ---
 
