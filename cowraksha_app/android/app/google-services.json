@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "140553934814",
+    "project_id": "gauraksha-321fc",
+    "storage_bucket": "gauraksha-321fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140553934814:android:898ed07d62d80c53c1ef4f",
+        "android_client_info": {
+          "package_name": "com.example.cowraksha_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGAMpodQ4_2QWu6knhLoO1LEI51vQ8gwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140553934814:android:670f9a6898093940c1ef4f",
+        "android_client_info": {
+          "package_name": "com.example.gauraksha_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGAMpodQ4_2QWu6knhLoO1LEI51vQ8gwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
