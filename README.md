@@ -1,4 +1,4 @@
-# 🐄 GauRaksha – Smart Cattle Health Monitoring System
+# 🐄 Smart Cattle Health Monitoring System
 
 **AI-Powered Real-Time Cow Health Monitoring for Dairy Farms**
 *Devsubmit 2026 | 24-Hour Hackathon Prototype*
@@ -65,8 +65,8 @@ GauRaksha/
 ## ⚙️ Getting Started
 
 ### 1. Clone the Repository
-git clone https://github.com/subodhkryadav/GauRaksha.git
-cd GauRaksha
+git clone https://github.com/subodhkryadav/Cattle-Health-Monitoring-System.git
+cd Cattle-Health-Monitoring-System
 
 ### 2. Install Dependencies
 pip install -r requirements.txt
